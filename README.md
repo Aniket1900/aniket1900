@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋, Aniket Bhosale
+#### Security Researcher and Bug Bounty Hunter 
+![Security Researcher and Bug Bounty Hunter ](https://pbs.twimg.com/profile_banners/180796014/1628174210/1500x500)
 
-I'm Aniket from India, and I spend my time in ethical hacking and bug bounty. I really enjoy exploring OWASP top 10 vulnerabilities and Common Vulnerabilities and Exposures, as well as work in Techinical Support. I also enjoy to solve techinical issues in general. You can check out my twitter at https://t.co/wAgM642R1D?amp=1 or https://www.linkedin.com/in/aniket1900/
+I'm Aniket from India, and I spend my time in ethical hacking and bug bounty. I really enjoy exploring OWASP top 10 vulnerabilities and Common Vulnerabilities and Exposures, as well as work in Technical Support. I also enjoy solving technical issues in general.
+
+Skills: Python / Wireshark / Burp Suite / Metasploit / Nessus / Shodan
+
+- 🔭 I’m currently working on this page. 
  
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aniket1900)
