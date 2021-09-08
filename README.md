@@ -4,7 +4,7 @@
 
 I'm Aniket from India, and I spend my time in ethical hacking and bug bounty. I really enjoy exploring OWASP top 10 vulnerabilities and Common Vulnerabilities and Exposures, as well as work in Technical Support. I also enjoy solving technical issues in general.
 
-Skills: Python / Wireshark / Burp Suite / Metasploit / Nessus / Shodan
+Skills: Python / Wireshark / Nmap / Burp Suite / Metasploit / Nessus / Shodan
 
 - 🔭 I’m currently learning security concepts with the help of TryHackMe and HackTheBox. 
 - 🌱 I’m currently learning to be productive 
