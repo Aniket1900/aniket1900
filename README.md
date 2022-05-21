@@ -9,7 +9,7 @@ Skills: Python / Wireshark / Nmap / Burp Suite / Metasploit / Nessus / Shodan
 - 🔭 I’m currently learning security concepts with the help of TryHackMe and HackTheBox. 
 - 🌱 I’m currently learning to be productive 
 - 👯 I’m looking to collaborate on helping others to understand cyber security concepts  
-- 🤔 I’m looking for help with Digital Signature Certification   
+- 🤔 I’m looking for help with Digital Signature Certification with goverment bodies
 - 📫 How to reach me: aniket.bhosale@hotmail.com 
 
 
