@@ -1,7 +1,7 @@
 ### Hi there 👋, Aniket Bhosale
 #### 
 
-Profile updating !!! 
+Profile updating ... 
 
 Skills: Updating ... 
 
