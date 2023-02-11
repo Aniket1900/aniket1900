@@ -11,6 +11,4 @@ Skills: Updating ...
 - 📫 How to reach me: aniket.bhosale@hotmail.com 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aniket1900)  
-
-![Profile views](https://gpvc.arturio.dev/Aniket1900)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aniket1900)
